@@ -32,22 +32,6 @@ Die Webadresse für Volxbibel Twitter findet man unter http://twitter.com/volxbi
  
 Anmeldung für den Emailservice erfolgt über http://www.volxbibel.com/emailservice
 
-===Nach dem Import: Arbeitsversion===
-Nach dem Import liegen zur Zeit nur die Arbeitsversionen im Wiki. Wer die Druckversion noch dazufügen will, muss auf der Seite folgendes einfügen: [[V3:Markus 1|aktuelle Druckversion]] | [[Markus 1|aktuelle Arbeitsversion]] 
-(geh auf "bearbeiten" um zu sehen wie es aussieht). Dieser Text muss in alle Kapitel rein, bloß die Zahl und das Buch muss ausgetauscht werden.--[[Benutzer:Martin|martin.d]] 08:15, 1. Sep 2009 (CEST)
-
-=== Version 3.0 jetzt live im Wiki! ===
-
-Die aktuelle Version 3.0 wurde zum 24.10.2008, 00:00 Uhr in das Wiki importiert. Wie üblich gibt es die Druckversion im [http://wiki.volxbibel.com/index.php?title=Spezial%3AAllpages&from=&namespace=110 Namensraum V3]. Natürlich wurde auch die endgültige Version 3.0 über die aktuelle Arbeitsversion im Wiki gelegt. 
-
-'''Wichtig:''' Änderungen die Seit dem Export am 29. Juni 2008 gemacht wurden, müssen nachgetragen werden. Dazu einfach die Importierte Version mit der Vorversion vergleichen. 
-
-'''Hinweis:''' Leider konnte ich die bisherige Verlinkung zur Druckversion nicht ohne größeren Aufwand einbauen. Diese fällt daher weg. Falls jemand manuell Pflegen möchte, kann folgende Syntax in die Seiten eingebaut und entsprechend an die Bücher und Kapitel angepasst werden:
-
-<pre>[[V3:Matthäus 1|aktuelle Druckversion]] | [[Matthäus 1|aktuelle Arbeitsversion]]</pre> 
-
-Gottes Segen & viel Spaß beim weiterarbeiten! --[[Benutzer:Mzeecedric|Mzeecedric]] 00:22, 24. Okt 2008 (CEST)
-
 ----'''
 == '''NEWS*TICKER*NEWS*TICKER*NEWS*TICKER*NEWS*TICKER*NEWS*TICKER*NEWS*TICKER*''' ==
 ----
