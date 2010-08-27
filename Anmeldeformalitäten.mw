@@ -36,3 +36,6 @@ E-Mail-Adresse überpfrüfen sollte Pflicht sein. --[[Benutzer:Powtac|Powtac]] 1
 
 Überprüfen der E-Mailadresse wird mit einem Wiki-Update möglich werden. Es ist jetzt schon möglich, an Benutzer mit vorhandener E-Mailadresse nachrichten zu schicken. Die Adresse dagegen automatisch auf die Profilseite zu schreiben wird dagegen aus Datenschutz nicht gemacht werden. Wenn ein Benutzer das selbst tut, ok... --[[Benutzer:Mzeecedric|Mzeecedric]] 10:58, 24. Mai 2010 (CEST)
 :Ich denke, dann hast Du ein "Go" von allen dafür. Die Kohle ist noch nicht da, aber müsste ja auch bald auf meinem Konto sein. Bezahlen können wir das also.--[[Benutzer:Martin|martin.d]] 16:44, 24. Mai 2010 (CEST)
+
+== Facebook Integration ==
+Es ist technisch Möglich ein Facebook Login zu erlauben. D.h. es gibt einfach einen FB Login Button und der fragt den User ob er VB Wiki den Zugriff auf seine FB Daten (Name, E-Mail usw) gibt, wenn der User bejaht ist man einfach eingeloggt, bzw. muss noch einen Usernamen bestätigen.
